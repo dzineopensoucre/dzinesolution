@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.topbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px 0px 0px;
+    background-color: antiquewhite;
+    
+}
+.topicon{
+    display: flex;
+    gap: 30px;
+}
+.leftnav img{
+    width: 80px;
+}
+    
